@@ -10,7 +10,7 @@ def compute_height(n, parents):
     max_height = 0
     # Your code here
     return max_height
-
+#es nerubi it
 
 def main():
     # implement input form keyboard and from files
